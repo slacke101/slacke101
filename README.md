@@ -1,5 +1,5 @@
 <!-- Animated typing effect at the top -->
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFFF&width=700&lines=Rafael+Castro,+AI+%26+Software+Engineer;Oregon+State+University)
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFFF&width=700&lines=Rafael+Castro,+AI+%26+Software+Engineer;HP Inc.)
 
 ---
 
